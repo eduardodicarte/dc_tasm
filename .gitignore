@@ -1,8 +1,9 @@
-*.class
 .project
 .settings
 .classpath
 .gitignore
+.log
+*.class
 *.jar
 *.exe
 /target
