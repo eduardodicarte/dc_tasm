@@ -23,5 +23,4 @@ seleniumMantisPARENT.
 5 - Inclua um server application, o projeto foi desenvolvido para ser executado com o JBOSS.
 
 
-Para dúvidas, informações ou sugestões entre em contato com o email abaixo:
-git.dicarte@yahoo.com.br
+Para dúvidas, informações ou sugestões entre em contato pelo email git.dicarte@yahoo.com.br
