@@ -2,7 +2,7 @@
 .settings
 .classpath
 .gitignore
-.log
+*.log
 *.class
 *.jar
 *.exe
