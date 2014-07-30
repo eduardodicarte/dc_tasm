@@ -36,6 +36,8 @@
 		</dependency>
 	</dependencies>
 	<build>
+    		<directory>target</directory>
+    		<outputDirectory>target/classes</outputDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
