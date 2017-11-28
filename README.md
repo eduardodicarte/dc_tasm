@@ -1,9 +1,8 @@
 SeleniumMantisAPI
 =================
 
-#TableView-
 
-TableView dsjfioskdfjidsrj Demo!
+<b>TableView dsjfioskdfjidsrj Demo!</b>
 
 <br>
   <img height="700" src="https://raw.githubusercontent.com/djstava/PostsCollection/master/images/mac/swift_from_scratch_1/UITableView_01.png" />
