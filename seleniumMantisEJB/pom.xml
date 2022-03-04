@@ -10,7 +10,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.16</version>
+			<version>8.0.28</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-annotations</artifactId>
-			<version>3.3.1.GA</version>
+			<version>3.4.0.GA</version>
 			<type>jar</type>
 			<scope>provided</scope>
 		</dependency>
