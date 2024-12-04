@@ -67,21 +67,21 @@
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-ie-driver</artifactId>
-			<version>2.32.0</version>
+			<version>3.13.0</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
   		<groupId>org.seleniumhq.selenium</groupId>
   		<artifactId>selenium-java</artifactId>
-  		<version>2.32.0</version>
+  		<version>3.13.0</version>
   		<type>jar</type>
   		<scope>compile</scope>
   	</dependency>
   	<dependency>
   		<groupId>org.seleniumhq.selenium</groupId>
   		<artifactId>selenium-server</artifactId>
-  		<version>2.32.0</version>
+  		<version>3.13.0</version>
   		<type>jar</type>
   		<scope>compile</scope>
   	</dependency>
